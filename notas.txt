@@ -1,0 +1,18 @@
+como surgiu a orientação a objetos
+inicio da engenharia de software data 1960~1970
+decada de 90 complexidade dos software
+avanaços para modelo estruturado ex: struct
+java surgiu para setup box
+
+*abstrair solução de problemas para reutilizar em outros*
+
+processamento cliente servidor
+
+farinelli (2007, p4) citação
+
+classe = platão
+objeto = aristóteles
+
+postar no git
+
+calculadora simples para trabalhar com 2 numeros, 4 funções basicas
